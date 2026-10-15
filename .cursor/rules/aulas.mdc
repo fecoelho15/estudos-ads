@@ -1,0 +1,23 @@
+---
+description: Resumos e roteiros de aula a partir das anotações, sem copiar material da instituição
+alwaysApply: true
+---
+
+# Aulas, resumos e roteiros
+
+Ao registrar ou revisar uma aula em `aulas/`:
+
+- Leia `aula.md` e os arquivos em `materiais/` antes de escrever.
+- Atualize `resumo.md`, `roteiro.md` e a linha correspondente em `aulas/INDICE.md`.
+- Escreva em português, com palavras próprias. Não copie slide, apostila ou PDF.
+- Se a anotação não cobre um ponto, registre em Lacunas. Não complete com conteúdo inventado.
+- Um conceito por vídeo, 45 a 75 segundos. Aula longa vira vários blocos no mesmo `roteiro.md`.
+- Separe a narração contínua (HeyGen) das cenas (CapCut): narração, texto na tela e sugestão visual.
+- Gancho nos primeiros segundos. Ideia simples primeiro, termo técnico depois, um exemplo concreto.
+- Status no índice: `anotada`, `resumida` ou `roteirizada`.
+
+Exemplo de cena:
+
+- Narração: "Uma variável guarda um valor com nome, para você não repetir o número no código."
+- Texto na tela: "variável = nome para um valor"
+- Sugestão visual: caixa com o nome `idade` e o valor `20`
